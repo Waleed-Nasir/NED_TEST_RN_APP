@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>346772058871-ekhiahg7bhfnj182vh7u4qg2olstfgp6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.346772058871-ekhiahg7bhfnj182vh7u4qg2olstfgp6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8CxAXxgU_zqTmSerTOp6jm2xSMm-CYVs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>346772058871</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gaurdianFinder.app</string>
+	<key>PROJECT_ID</key>
+	<string>tutterapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tutterapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:346772058871:ios:948aaa297215b07f3c59f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://tutterapp-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
